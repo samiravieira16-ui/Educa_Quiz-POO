@@ -1,4 +1,4 @@
-# Educa_Quiz-POO
+
 
 ## 📚 Descrição do Projeto
 O **Educa_Quiz-POO** é um sistema de quiz educacional desenvolvido com base nos princípios da **Programação Orientada a Objetos (POO)** em **Python**.  
