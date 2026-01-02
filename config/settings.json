@@ -1,3 +1,4 @@
+# config/settings.json
 {
     "quiz.defaultDurationMinutes": 30,
     "quiz.maxAttemptsPerUser": 3,
