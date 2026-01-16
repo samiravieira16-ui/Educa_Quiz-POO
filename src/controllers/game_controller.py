@@ -1,5 +1,5 @@
 import json
-import os
+import os, pandas
 
 class GameController:
     """
@@ -38,3 +38,4 @@ class GameController:
             # Obtém o peso da dificuldade, padrão 1 se não definido
             total += pesos.get(p.dificuldade, 1)
         return total
+
